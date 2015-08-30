@@ -134,7 +134,7 @@ class Bishop < Piece
   include MAGNITUDE_UNLIMITED
 
   def symbol
-    " B ".colorize(display_color)
+    " ♗ ".colorize(display_color)
   end
 
 end
@@ -152,7 +152,7 @@ class Pawn < Piece
   end
 
   def symbol
-    " P ".colorize(display_color)
+    " ♙ ".colorize(display_color)
   end
 
   private
@@ -200,7 +200,7 @@ class Rook < Piece
   include MAGNITUDE_UNLIMITED
 
   def symbol
-    " R ".colorize(display_color)
+    " ♖ ".colorize(display_color)
   end
 
 end
@@ -209,7 +209,7 @@ class Knight < Piece
   include MAGNITUDE_ONE
 
   def symbol
-    " N ".colorize(display_color)
+    " ♘ ".colorize(display_color)
   end
 
   def directions
@@ -223,7 +223,7 @@ class Queen < Piece
   include MAGNITUDE_UNLIMITED
 
   def symbol
-    " Q ".colorize(display_color)
+    " ♕ ".colorize(display_color)
   end
 
 end
@@ -233,7 +233,7 @@ class King < Piece
   include MAGNITUDE_ONE
 
   def symbol
-    " K ".colorize(display_color)
+    " ♔ ".colorize(display_color)
   end
 
   def castle
