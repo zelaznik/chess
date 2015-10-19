@@ -24,6 +24,7 @@
   ```
 
 ## Playing Instructions
+#### Starting The Game
   - Browse to the directory and start the game
 
   ```bash
