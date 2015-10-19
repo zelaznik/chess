@@ -1,7 +1,7 @@
 # Ruby Chess
 - A game which follows Ruby object-oriented best practices which allows two human players to play each other in Chess.
 [checkmate]: https://raw.githubusercontent.com/zelaznik/chess/master/images/checkmate.gif
-  - ![Starting Sreenshot For Chess][checkmate]
+  - ![Screenshot of Checkmate][checkmate]
 
 
 ## Summary
@@ -42,6 +42,9 @@
 #### Making A Move
   - The yellow squares are the squares that are active on the cursor.
   - To move around the board use the following four keys like arrows:
+[mac_keyboard]: https://raw.githubusercontent.com/zelaznik/chess/master/images/mac_keyboard.jpg
+  -  ![Mac Keyboard][mac_keyboard]
+  - "W" for up, "A" for left, "S" for down, "D" for right
 
 ## Mixins
 
