@@ -1,7 +1,7 @@
 # Ruby Chess
 - A game which follows Ruby object-oriented best practices which allows two human players to play each other in Chess.
 [checkmate]: https://raw.githubusercontent.com/zelaznik/chess/master/images/checkmate.gif
-  -  - ![Starting Sreenshot For Chess][checkmate]
+  - ![Starting Sreenshot For Chess][checkmate]
 
 
 ## Summary
