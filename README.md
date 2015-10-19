@@ -39,6 +39,9 @@
 [start_game]: https://raw.githubusercontent.com/zelaznik/chess/master/images/start_game.gif
   -  ![Starting Sreenshot For Chess][start_game]
 
+#### Making A Move
+  - The yellow squares are the squares that are active on the cursor.
+  - To move around the board use the following four keys like arrows:
 
 ## Mixins
 
