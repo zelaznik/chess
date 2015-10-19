@@ -24,9 +24,10 @@
   ```
 
 ## Playing Instructions
-  - Browse to the directory and enter the following
+  - Browse to the directory and start the game
 
   ```bash
+  $ cd chess
   $ ruby game.rb
   ```
 
