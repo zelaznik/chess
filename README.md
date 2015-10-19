@@ -40,8 +40,7 @@
   -  ![Starting Sreenshot For Chess][start_game]
 
 #### Making A Move
-  - The yellow squares are the squares that are active on the cursor.
-  - To move around the board use the following four keys like arrows:
+  - The yellow squares are the squares that are active on the cursor.  To move around the board use the following four keys like arrows:
 [mac_keyboard]: https://raw.githubusercontent.com/zelaznik/chess/master/images/mac_keyboard.jpg
   -  ![Mac Keyboard][mac_keyboard]
   - "W" for up, "A" for left, "S" for down, "D" for right
