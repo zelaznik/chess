@@ -32,6 +32,11 @@
   $ ruby game.rb
   ```
 
+  - Your screen should now look like this:
+[start_game]: https://raw.githubusercontent.com/zelaznik/chess/master/images/start_game.gif
+  -  ![Starting Sreenshot For Chess][start_game]
+
+
 ## Mixins
 
 |Item Type|Item Name|Rook|Knight|Queen|King|Bishop|Pawn|
