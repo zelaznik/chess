@@ -19,7 +19,7 @@
   ```bash
   $ sudo install ruby
   $ cd desktop
-  $ cd git clone https://github.com/zelaznik/chess.git  
+  $ git clone https://github.com/zelaznik/chess.git  
   $ gem install colorize
   ```
 
