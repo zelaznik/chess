@@ -11,12 +11,19 @@
   - When a person is in check, a notification will display on the console, same things happens when a person is in checkmate
 
 ## Instructions
-  - Clone the Git Repo in your computer
   - If you don't have Ruby 2.0 or later, install it.
-  - gem install colorize
-  - Browse to the directory of your Chess repository.
-  - Type into the terminal "ruby game.rb"
-  - Enjoy
+  - Browse to the directory you want in the terminal, for example:
+  - Clone the Git Repo in your computer
+  - Make sure to have the colorize gem
+  - Have fun playing!
+
+  ```
+  $ sudo install ruby
+  $ cd desktop
+  $ cd git clone https://github.com/zelaznik/chess.git  
+  $ gem install colorize
+  $ ruby game.rb
+  ```
 
 ## Mixins
 
