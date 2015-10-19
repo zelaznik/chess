@@ -17,8 +17,9 @@
 ## Mixins
 
 |Item Type|Item Name|Rook|Knight|Queen|King|Bishop|Pawn|
-|Method|diagonal_directions|||TRUE|TRUE|||
-|Method|row_col_directions|TRUE||TRUE|TRUE|||
-|Module|MAGNITUDE_UNLIMITED|TRUE||TRUE||TRUE||
-|Module|MAGNITUDE_ONE||TRUE||TRUE|||
-|Module|DIAGONAL_MOVES|||||TRUE||
+|---------|--------------------|--------|--------|--------|--------|--------|--------|
+|Method|diagonal_directions|-|-|TRUE|TRUE|-|-|
+|Method|row_col_directions|TRUE|-|TRUE|TRUE|-|-|
+|Module|MAGNITUDE_UNLIMITED|TRUE|-|TRUE|-|TRUE|-|
+|Module|MAGNITUDE_ONE|-|TRUE|-|TRUE|-|-|
+|Module|DIAGONAL_MOVES|-|-|-|-|TRUE|-|
