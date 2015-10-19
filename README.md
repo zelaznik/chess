@@ -45,6 +45,8 @@
 [mac_keyboard]: https://raw.githubusercontent.com/zelaznik/chess/master/images/mac_keyboard.jpg
   -  ![Mac Keyboard][mac_keyboard]
   - "W" for up, "A" for left, "S" for down, "D" for right
+  - Hit "return" to pick a piece to move.
+  - Hit "return" again once you've navigated to the spot where you want to move.
 
 ## Mixins
 
