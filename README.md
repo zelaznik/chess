@@ -1,5 +1,8 @@
 # Ruby Chess
 - A game which follows Ruby object-oriented best practices which allows two human players to play each other in Chess.
+[checkmate]: https://raw.githubusercontent.com/zelaznik/chess/master/images/checkmate.gif
+  -  ![Starting Sreenshot For Chess][checkmate]
+
 
 ## Summary
   - At each step the player can use the keyboard to select a piece to move, and then uses a cursor to walk toward the place where he’d like to move the piece.
