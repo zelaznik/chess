@@ -16,7 +16,7 @@
   - Clone the Git Repo in your computer
   - Make sure to have the colorize gem
 
-  ```
+  ```bash
   $ sudo install ruby
   $ cd desktop
   $ cd git clone https://github.com/zelaznik/chess.git  
@@ -25,7 +25,7 @@
 
 ## Playing Instructions
   - Browse to the directory and enter the following:
-  ```
+  ```bash
   $ ruby game.rb
   ```
 
