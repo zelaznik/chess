@@ -24,7 +24,8 @@
   ```
 
 ## Playing Instructions
-  - Browse to the directory and enter the following:
+  - Browse to the directory and enter the following
+
   ```bash
   $ ruby game.rb
   ```
