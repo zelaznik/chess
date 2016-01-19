@@ -14,8 +14,8 @@
 ## Setup Instructions
   - If you don't have Ruby 2.0 or later, install it.
   - Browse to the directory you want in the terminal.
-  - Clone the Git Repo in your computer
-  - Make sure to have the colorize gem
+  - Clone the Git Repo in your computer.
+  - Make sure to have the colorize gem.
 
   ```bash
   $ sudo install ruby
